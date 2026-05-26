@@ -20,9 +20,4 @@
     <PackageReference Include="System.Linq.Dynamic.Core" Version="1.7.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Modules\Candicate\Controllers\" />
-    <Folder Include="Modules\Candicate\Services\" />
-  </ItemGroup>
-
 </Project>
